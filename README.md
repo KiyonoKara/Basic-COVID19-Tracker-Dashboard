@@ -18,6 +18,9 @@ This dashboard works on Node v12.3.1 guaranteed. If you wish to run this project
 ## Notice
 All COVID-19 projects will be discontinued as of January 1st, 2021. This is because 2020 has been a long and difficult year. That being said, I also want to leave the COVID-19 things behind and start a new year looking forward to the rest of the decade of 2020 - 2030. A vaccine is already out, so we are taking another step forward.   
 
+## Demonstration
+![Demonstration](assets/DemoAsset.png)
+
 ## Project Status
 This project is complete.
 
