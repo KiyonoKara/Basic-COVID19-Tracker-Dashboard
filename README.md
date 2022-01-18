@@ -1,6 +1,6 @@
 # Basic COVID-19 Tracker Dashboard
 
-Somewhat of an extension of [Basic-COVID19-Tracker](https://github.com/KaNguy/Basic-COVID19-Tracker), this is a short and concise dashboard of the three main global COVID-19 statistics which are `cases`, `deaths`, and `recoveries`.
+Somewhat of an extension of [Basic-COVID19-Tracker](https://github.com/KiyonoKara/Basic-COVID19-Tracker), this is a short and concise dashboard of the three main global COVID-19 statistics which are `cases`, `deaths`, and `recoveries`.
 
 ## Main Features
 - See global cases, deaths, and recoveries on the only page. 
@@ -25,4 +25,4 @@ All COVID-19 projects will be discontinued as of January 1st, 2021. This is beca
 This project is complete.
 
 ## License
-[MIT](https://github.com/KaNguy/Basic-COVID19-Tracker-Dashboard/blob/master/LICENSE.md)
+[MIT](LICENSE.md)
