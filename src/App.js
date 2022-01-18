@@ -47,7 +47,7 @@ class App extends React.Component {
                       </b>
                   </p>
                   <a className="App-link"
-                     href="https://github.com/KaNguy/Basic-COVID19-Tracker-Dashboard"
+                     href="https://github.com/KiyonoKara/Basic-COVID19-Tracker-Dashboard"
                      target="_blank"
                      rel="noopener noreferrer">GitHub Source</a>
                   <p>Global Cases: {confirmed}</p>
