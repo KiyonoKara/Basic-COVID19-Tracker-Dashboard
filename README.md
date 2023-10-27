@@ -5,9 +5,10 @@ Somewhat of an extension of [Basic-COVID19-Tracker](https://github.com/KiyonoKar
 ## Main Features
 - See global cases, deaths, and recoveries on only one page.
 - Simple design
+- Disclaimer: The data is not completely accurate since it's purely calculated from adding all the stats from each entry from the API.
 
 ## Contributing
-This project is no longer taking 
+This project is no longer taking pull requests or issues.
 
 ## Usage
 This dashboard is guaranteed to work on Node v12.3.1. If you wish to run this project, you should have your Node version at least at v12.3.1. Versions after v13.x.x seem to cause environment errors with the project. You can run this project on your localhost.
