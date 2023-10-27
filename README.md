@@ -13,7 +13,11 @@ This project is no longer taking
 This dashboard is guaranteed to work on Node v12.3.1. If you wish to run this project, you should have your Node version at least at v12.3.1. Versions after v13.x.x seem to cause environment errors with the project. You can run this project on your localhost.
 
 ## Demonstration
-![Demonstration](assets/DemoAsset.png)
+![Demonstration](assets/demonstration.png)
+
+## Acknowledgements
+1. Reference to reported data: WHO COVID-19 Dashboard. Geneva: World Health Organization, 2020. Available online: https://covid19.who.int/ (2023/10/27).
+2. API for estimated data: Google Covid-19 Open Data. https://health.google.com/covid-19/open-data/raw-data (2023/10/27)
 
 ## Project Status
 Complete.
