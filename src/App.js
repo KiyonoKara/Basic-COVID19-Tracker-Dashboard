@@ -11,7 +11,6 @@ class App extends React.Component {
         deaths: 0,
         recoveries: 0,
         loading: true
-
     }
     _isMounted = false;
 
